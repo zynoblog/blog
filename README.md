@@ -24,3 +24,4 @@
 <a href="https://knperformance.pl/"><b> </b></a>
 <a href="https://mondosol.com/"><b> </b></a>
 <a href="https://www.gestomex.com/"> </a>
+<a href="https://durofy.com/"> </a>
