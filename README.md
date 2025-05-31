@@ -79,3 +79,5 @@
 <a href="https://pressraven.com/"> </a>
 <a href="https://presshackers.com/"> </a>
 <a href="https://nationaldppcsc.cdc.gov/s/profile/005SJ00000O0TU2YAN"> </a>
+< a href="https://www.advicescout.com/"> </a>
+< a href="https://euristiq.com/"> </a>
