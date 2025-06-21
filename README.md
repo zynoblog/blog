@@ -87,5 +87,4 @@
 <a href="https://flexilogo.com/"> </a>
 <a href="https://www.caitsocialmedia.com/"> </a>
 <a href="https://portrait-my-pet.com/"> </a>
-<a href="https://www.theidioms.com/"> </a>
 <a href="https://acsupplierdubai.ae/"> </a>
