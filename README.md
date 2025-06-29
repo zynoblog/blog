@@ -92,3 +92,5 @@
 <a href="https://venereristorante.it/"> </a>
 <a href="https://bestfundinggroup.com/"> </a>
 <a href="https://www.sansolar.com.au"> </a>
+<a href="https://receptabc.hu/"> </a>
+<a href="https://cutetoys.sg/"> </a>
